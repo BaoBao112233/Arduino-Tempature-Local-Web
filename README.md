@@ -19,6 +19,9 @@ Sau khi tải file zip của 2 thư viện trên, mở Arduino IDE chon Sketch >
 Di chuyển đến thư mục vửa tải 2 thư viện và chọn từng thư viện.
 ![alt text](image-4.png)
 
+Kết quả: 
+![alt text](image-5.png)
+
 Để tìm hiểu thêm: 
 https://iotprojectsideas.com/esp8266-dht11-dht22-temperature-humidity-with-local-web-server
 
